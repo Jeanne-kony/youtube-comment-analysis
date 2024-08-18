@@ -1,1 +1,2 @@
 # youtube-comment-analysis
+youtube-comment-analysisはYotube動画のURLを入力するとその動画のコメントをワードクラウド、共起ネットワーク、トピックごとに可視化してChatGPTによる総括が分かるアプリケーションです。
