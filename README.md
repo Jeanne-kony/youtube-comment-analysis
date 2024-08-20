@@ -13,7 +13,11 @@ youtube comments analysisはYotube動画のURLを入力するとその動画の�
 コメント分析をしたい動画のURLを入力をEnter YouTube Video URLに入力します  
 タブをそれぞれクリックするとワードクラウド、共起ネットワーク、トピッククラスタリングを見ることができます。画面を下側にスクロールすると動画、コメントに対する批判の総括がまとめられています
 <img width="1440" alt="スクリーンショット 2024-08-19 12 30 39" src="https://github.com/user-attachments/assets/5b74a241-661c-46db-b75e-3dda519e5ffd">
+
+
 word co-occurrence networksタブをクリックして共起ネットワークを表示
+
+
 <img width="1440" alt="スクリーンショット 2024-08-19 14 08 18" src="https://github.com/user-attachments/assets/6f608dd2-f711-42d1-9ae9-2dd147283c6f">
 clusteringタブをクリックしてトピッククラスタリングを表示
 <img width="1440" alt="スクリーンショット 2024-08-19 12 31 41" src="https://github.com/user-attachments/assets/48c3eb94-9bbf-42f9-bfa4-e9c130764645">
