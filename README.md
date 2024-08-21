@@ -15,24 +15,28 @@ youtube comments analysisはYotube動画のURLを入力するとその動画の�
 ![スクリーンショット 2024-08-21 13 17 34](https://github.com/user-attachments/assets/c4251bbc-a099-4bd5-b14b-bc44dce319d8)
 <br>
 タブをそれぞれクリックするとワードクラウド、共起ネットワーク、トピッククラスタリングを見ることができます。画面を下側にスクロールすると動画、コメントに対する批判の総括がまとめられています
+
+* word cloudタブをクリックするとワードクラウドが表示されます
 ![スクリーンショット 2024-08-21 12 23 23](https://github.com/user-attachments/assets/5dfcdc3b-986c-45ac-8011-5c25a9346078)
 <br>
 <br>
 <br>
 <br>
-word co-occurrence networksタブをクリックすると共起ネットワークが表示されます
+* word co-occurrence networksタブをクリックすると共起ネットワークが表示されます
 ![スクリーンショット 2024-08-21 12 24 23](https://github.com/user-attachments/assets/a5d1e40a-76b9-4c34-855d-8137734cf439)
 <br>
 <br>
 <br>
 <br>
-clusteringタブをクリックするとトピッククラスタリングが表示されます
+* clusteringタブをクリックするとトピッククラスタリングが表示されます
 ![スクリーンショット 2024-08-21 12 24 47](https://github.com/user-attachments/assets/ecdba646-0082-4e30-96d8-a183998ef157)
 <br>
 <br>
 <br>
 <br>
-下にスクロールすると批判の総括が表示されます
+* 下にスクロールすると批判の総括が表示されます
+<br>
+<br>
 ![スクリーンショット 2024-08-21 12 25 04](https://github.com/user-attachments/assets/8149b0ba-317f-48af-9244-afd6004066fd)
 
 # 今後実装予定機能
