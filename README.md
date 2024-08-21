@@ -1,5 +1,6 @@
 # youtube comments analysis
-youtube comments analysisはYotube動画のURLを入力するとその動画のコメントをワードクラウド、共起ネットワーク、トピックごとに可視化してChatGPTによる批判の総括が分かるアプリケーションです
+youtube comments analysisはYotube動画のURLを入力するとその動画のコメントをワードクラウド、共起ネットワーク、トピックごとに
+可視化してChatGPTによる批判の総括が分かるアプリケーションです
 
 ![無題のプレゼンテーション (1)](https://github.com/user-attachments/assets/11efd55f-3232-4f08-8a21-7120d82fa105)
 
@@ -34,7 +35,8 @@ youtube comments analysisはYotube動画のURLを入力するとその動画の�
 <br>
 
 # 今後実装予定機能
-コメントがポジティブ、ネガティブ、ニュートラルのどの割合が多いのか示す機能を実装予定です。試しに分類してみたところ判定が甘い部分があるため、モデルのチューニングなどを行い改善を図りたいと思います
+コメントがポジティブ、ネガティブ、ニュートラルのどの割合が多いのか示す機能を実装予定です。試しに分類してみたところ
+判定が甘い部分があるため、モデルのチューニングなどを行い改善を図りたいと思います
 <br>
 <br>
 ![スクリーンショット 2024-08-21 11 20 28](https://github.com/user-attachments/assets/fb0e4b04-4665-4ee5-b5b7-e2798c3ea3df)
