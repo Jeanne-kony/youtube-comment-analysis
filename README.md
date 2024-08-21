@@ -18,17 +18,14 @@ youtube comments analysisはYotube動画のURLを入力するとその動画の�
 ![スクリーンショット 2024-08-21 12 23 23](https://github.com/user-attachments/assets/5dfcdc3b-986c-45ac-8011-5c25a9346078)
 <br>
 <br>
-<br>
 
 * word co-occurrence networksタブをクリックすると共起ネットワークが表示されます
 ![スクリーンショット 2024-08-21 12 24 23](https://github.com/user-attachments/assets/a5d1e40a-76b9-4c34-855d-8137734cf439)
 <br>
 <br>
-<br>
 
 * clusteringタブをクリックするとトピッククラスタリングが表示されます
 ![スクリーンショット 2024-08-21 12 24 47](https://github.com/user-attachments/assets/ecdba646-0082-4e30-96d8-a183998ef157)
-<br>
 <br>
 <br>
 
