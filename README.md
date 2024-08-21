@@ -10,11 +10,9 @@ youtube comments analysisはYotube動画のURLを入力するとその動画の�
 * ChatGPTによる批判点の総括
 
 # 使い方
-コメント分析をしたい動画のURLを入力をEnter YouTube Video URLに入力します。今回は下記動画のURLを入力します
-<br>
+* コメント分析をしたい動画のURLをEnter YouTube Video URLに入力します。今回は下記動画のURLを入力します
 ![スクリーンショット 2024-08-21 13 17 34](https://github.com/user-attachments/assets/c4251bbc-a099-4bd5-b14b-bc44dce319d8)
 <br>
-タブをそれぞれクリックするとワードクラウド、共起ネットワーク、トピッククラスタリングを見ることができます。画面を下側にスクロールすると動画、コメントに対する批判の総括がまとめられています
 
 * word cloudタブをクリックするとワードクラウドが表示されます
 ![スクリーンショット 2024-08-21 12 23 23](https://github.com/user-attachments/assets/5dfcdc3b-986c-45ac-8011-5c25a9346078)
