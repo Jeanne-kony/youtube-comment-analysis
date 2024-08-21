@@ -15,14 +15,14 @@ youtube comments analysisはYotube動画のURLを入力するとその動画の�
 <img width="1440" alt="スクリーンショット 2024-08-21 9 10 08" src="https://github.com/user-attachments/assets/a2b75bdb-6358-4576-907c-d1a59638a602">
 
 
-word co-occurrence networksタブをクリックして共起ネットワークを表示されます
+word co-occurrence networksタブをクリックすると共起ネットワークが表示されます
 <img width="1440" alt="スクリーンショット 2024-08-21 9 16 09" src="https://github.com/user-attachments/assets/7e20d3a2-a3c7-4046-bd76-6a3733c651de">
 
 
-clusteringタブをクリックしてトピッククラスタリングを表示されます
+clusteringタブをクリックするとトピッククラスタリングが表示されます
 <img width="1440" alt="スクリーンショット 2024-08-21 9 15 06" src="https://github.com/user-attachments/assets/00b615a7-8f14-4793-8bdf-3fcc807a9e0c">
 
 
-下にスクロールして批判の総括を表示されます
+下にスクロールすると批判の総括が表示されます
 <img width="1440" alt="スクリーンショット 2024-08-21 9 17 13" src="https://github.com/user-attachments/assets/406fc8dc-c3e3-4d63-ad41-ba4116e01b8c">
 
