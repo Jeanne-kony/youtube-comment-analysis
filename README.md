@@ -12,19 +12,11 @@ youtube comments analysisはYotube動画のURLを入力するとその動画の�
 # 使い方
 コメント分析をしたい動画のURLを入力をEnter YouTube Video URLに入力します  
 タブをそれぞれクリックするとワードクラウド、共起ネットワーク、トピッククラスタリングを見ることができます。画面を下側にスクロールすると動画、コメントに対する批判の総括がまとめられています
-<img width="1440" alt="スクリーンショット 2024-08-19 12 30 39" src="https://github.com/user-attachments/assets/5b74a241-661c-46db-b75e-3dda519e5ffd">
-<br>
-<br>
-<br>
-<br>
+<img width="1440" alt="スクリーンショット 2024-08-21 9 10 08" src="https://github.com/user-attachments/assets/a2b75bdb-6358-4576-907c-d1a59638a602">
 word co-occurrence networksタブをクリックして共起ネットワークを表示
-<br>
-<br>
-<br>
-<br>
-<img width="1440" alt="スクリーンショット 2024-08-19 14 08 18" src="https://github.com/user-attachments/assets/6f608dd2-f711-42d1-9ae9-2dd147283c6f">
+<img width="1440" alt="スクリーンショット 2024-08-21 9 16 09" src="https://github.com/user-attachments/assets/7e20d3a2-a3c7-4046-bd76-6a3733c651de">
 clusteringタブをクリックしてトピッククラスタリングを表示
-<img width="1440" alt="スクリーンショット 2024-08-19 12 31 41" src="https://github.com/user-attachments/assets/48c3eb94-9bbf-42f9-bfa4-e9c130764645">
+<img width="1440" alt="スクリーンショット 2024-08-21 9 15 06" src="https://github.com/user-attachments/assets/00b615a7-8f14-4793-8bdf-3fcc807a9e0c">
 下にスクロールして批判の総括を表示
-<img width="1440" alt="スクリーンショット 2024-08-19 12 32 01" src="https://github.com/user-attachments/assets/e5f4e109-9d3b-47cd-b6e7-7242455b7d21">
+<img width="1440" alt="スクリーンショット 2024-08-21 9 17 13" src="https://github.com/user-attachments/assets/406fc8dc-c3e3-4d63-ad41-ba4116e01b8c">
 
