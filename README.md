@@ -10,7 +10,7 @@ youtube comments analysisはYotube動画のURLを入力するとその動画の�
 * ChatGPTによる批判点の総括
 
 # 使い方
-* コメント分析をしたい動画のURLをEnter YouTube Video URLに入力します。今回は下記動画のURLを入力します
+* コメント分析をしたい動画のURLをEnter YouTube Video URLに入力します。コメントが2つ以上あり、ショート動画（YouTube Shorts）ではない動画のみを対象とします。今回は下記動画のURLを入力します
 ![スクリーンショット 2024-08-21 13 17 34](https://github.com/user-attachments/assets/c4251bbc-a099-4bd5-b14b-bc44dce319d8)
 <br>
 
