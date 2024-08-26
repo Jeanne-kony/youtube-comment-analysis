@@ -1,0 +1,6 @@
+{
+    "API_KEY": "Youtube Data API v3のAPIキーを入力してください", 
+    "OPENAI_API_KEY": "OPENAIのAPIキーを入力してください",
+    "font_path": "フォントのパスを入力してください",
+    "stopwords_path": "ストップワードのパスを入力してください"
+  }
